@@ -1,0 +1,6 @@
+2023-12-02 18:59:10 INFO  TestBase:58 - Browser initializedChrome
+2023-12-02 18:59:14 INFO  TestBase:60 - Opening urlhttps://www.freecrm.com
+2023-12-02 18:59:18 INFO  HomePageTest:70 - Starting validating tasks link test ...
+2023-12-02 19:58:01 INFO  TestBase:69 - Browser initializedChrome
+2023-12-02 19:58:06 INFO  TestBase:71 - Opening urlhttps://www.freecrm.com
+2023-12-02 19:58:10 INFO  HomePageTest:50 - Starting validating user name display test ...
